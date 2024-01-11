@@ -1,0 +1,24 @@
+PS C:\Users\EXAM\Desktop\githubwork> git config --global user.email "laiba2305f@aptechsite.net"
+PS C:\Users\EXAM\Desktop\githubwork> git config --global user.name "laiba2305f"
+PS C:\Users\EXAM\Desktop\githubwork> git init
+Reinitialized existing Git repository in C:/Users/EXAM/Desktop/githubwork/.git/
+PS C:\Users\EXAM\Desktop\githubwork> git status
+
+//ye commnds phly likhi thi
+PS C:\Users\EXAM\Desktop\githubwork> git add .
+PS C:\Users\EXAM\Desktop\githubwork> git commit -m "work"
+//ye commnds phly likhi thi
+
+PS C:\Users\EXAM\Desktop\githubwork> git remote push origin https://github.com/laiba2305f/my-repository.git
+PS C:\Users\EXAM\Desktop\githubwork> git branch
+PS C:\Users\EXAM\Desktop\githubwork> git branch -m
+fatal: branch name required
+PS C:\Users\EXAM\Desktop\githubwork> git branch -m main
+PS C:\Users\EXAM\Desktop\githubwork> git branch
+PS C:\Users\EXAM\Desktop\githubwork> git commit -m "work"
+
+PS C:\Users\EXAM\Desktop\githubwork> git remote add origin https://github.com/laiba2305f/my-repository.git
+PS C:\Users\EXAM\Desktop\githubwork> git push -u origin main
+info: please complete authentication in your browser...
+
+//complete
